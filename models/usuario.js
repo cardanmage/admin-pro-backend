@@ -37,4 +37,4 @@ UsuarioSchema.method('toJSON', function() {
     return object;
 })
 
-module.exports = model('USuario', UsuarioSchema);
+module.exports = model('Usuario', UsuarioSchema);
